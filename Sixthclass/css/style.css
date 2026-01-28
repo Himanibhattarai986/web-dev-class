@@ -1,0 +1,20 @@
+a,h1{
+    color:rgb(169, 198, 161)
+}
+a {
+    font-size: 30px;
+    }
+    a{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(242, 193, 201);
+    font-weight:bold;
+}
+p span{
+    font-weight: bold;
+    color: rgb(160, 218, 232);
+}
+.new-course span {
+    font-weight: bold;
+    color: rgb(255, 87, 51);
+}
